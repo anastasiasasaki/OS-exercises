@@ -1,7 +1,7 @@
 # Operating-System-Concepts-Projects
-Dinosaur book projects to follow along Operating System Concepts 10th edition by Peter B. Galvin, Greg Gagne, A Silberschatz 
-Language: C
-OS: Linux (Debian) 
+Dinosaur book projects to follow along Operating System Concepts 10th edition by Peter B. Galvin, Greg Gagne, A Silberschatz  
+Language: C  
+OS: Linux (Debian)   
 
 ## TODO: 
 
