@@ -4,4 +4,4 @@ Language: C
 OS: Linux (Debian)   
 
 ### Topics: 
-... tbc 
+1. [Setup](https://github.com/anastasiasasaki/Operating-System-Concepts-Projects/blob/main/SetUp/README.md) 
